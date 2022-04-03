@@ -1,7 +1,5 @@
 ### Hi there 👋
-I can put some Ads in here. lol.
 
-广告位招租
 
 <!--
 **Xanadu12138/Xanadu12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
